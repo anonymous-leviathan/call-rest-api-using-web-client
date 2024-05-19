@@ -31,7 +31,7 @@ This project requires:
 
 ## Further Information
 
-For more details about Spring WebFlux and `WebClient`, please refer to the [official documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html).
+For more details about Spring WebFlux and `WebClient`, please refer to the [official documentation](https://docs.spring.io/spring-framework/reference/web/webflux.html).
 
 ## License
 
